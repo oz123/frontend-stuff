@@ -34,6 +34,7 @@ A continuously expanded list of framework/libraries and tools I used/want to use
 - [base](http://matthewhartman.github.io/base/) - Responsive CSS framework with IE7+ support
 - [papier](https://github.com/alexanderGugel/papier) - Material design like minimal CSS framework
 - [materialize](http://materializecss.com/) - A modern responsive front-end framework based on Material Design
+- [qooxdoo](http://qooxdoo.org/) - a universal JavaScript framework not just for frontend
 
 ### Charts
 - [nvd3](http://nvd3.org/) - Re-usable charts and chart components for d3.js
